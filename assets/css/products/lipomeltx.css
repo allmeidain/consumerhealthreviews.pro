@@ -1,11 +1,13 @@
-/* Tokens de cores extraídos da identidade oficial do produto */
+/* Tokens de cores oficiais extraídos da oferta oficial (https://lipomeltx.com/about/) */
 :root {
-  --navy-1: #004F71;
-  --navy-2: #013248;
-  --cta-1: #FBF124;
-  --cta-2: #FBBF24;
-  --cta-hover-1: #FFE066;
-  --cta-hover-2: #FFCC00;
-  --testimonial-navy: #7A4B1A;
-  --badge-border: rgba(255, 204, 0, 0.6);
+  --navy-1: #5c145a;
+  --navy-2: #360b3d;
+  --testimonial-navy: #49104c;
+  --panel-gray: #f9f0f7;
+  --cta-1: #f5c518;
+  --cta-2: #e67e00;
+  --cta-hover-1: #ffe168;
+  --cta-hover-2: #f5c518;
+  --badge-border: rgba(255, 53, 53, 0.6);
 }
+
